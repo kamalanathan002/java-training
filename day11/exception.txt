@@ -1,0 +1,3 @@
+try->execute the risky part of code;
+catch->work when risky part of code fails
+finally ->Always 
