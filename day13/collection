@@ -1,0 +1,21 @@
+Itreable-collection- 1)list
+                            ->ArrayList
+                            ->Linkedlist 
+                            ->vector->stack
+                     2)queue
+                            ->dequeue
+                            ->linkedList
+                     3)set
+                             ->Hashset
+                             ->Hashmap
+class-> class
+                  ->extends
+Interface->Interface
+class -> interface-Implements
+compare to array,list have
+  Easy insertion,deletion,dynamic resizing
+  default size:10;
+  new size= oldsize+(oldsize/2)
+  new size= 10+(10/2)=15
+  storede wapper class+ generics(strict datatype)
+  

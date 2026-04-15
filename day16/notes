@@ -1,0 +1,22 @@
+Iterator:
+       Traversing collection element by element through cursor
+       1) .hasNext()->checks next element exits or not
+       2) .next()->move cursor to next element
+       3) remove()->remove the element 
+collection->Iterator->cursor->element
+List Iterator:
+           ->works only with List
+           ->moves forword and backword 
+                 1) .hasprevious()
+                 2) .previous()
+                 ->Access previous element
+comparable Interface:
+            ->Natural ordering - default way of shorting
+            Methods:
+                1) compareTo()
+comparator:
+        ->create custom shorting logic externally
+                           ->outside th class
+        Methods:
+            1) 
+        
