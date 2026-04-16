@@ -1,0 +1,21 @@
+I/O streams
+Used for audio video image
+1) Byte streams
+         1)Input stream
+             1)File input stream
+             2)Buffered Input
+         2)output stream 
+             1)FileOutput
+             2)Buffered output
+Text file character
+2)character streams
+         1)Reader
+             1)FileReader
+             2)BufferedReader
+         2)Writer
+             1)FileWriter
+             2)BufferWriter
+File Reader
+    .read() method
+         return ASCII value
+         return -1 when reach the end of file
